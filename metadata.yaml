@@ -1,0 +1,28 @@
+_repo: An-Historical-Summary-of-the-Post-Office-in-Scotland_40469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, T. B. (Thomas Bamford)
+    alias: Lang, Thomas Bamford
+    birthdate: 1820
+    deathdate: 1868
+    gutenberg_agent_id: '40647'
+    url: http://www.gutenberg.org/2009/agents/40647
+description: ''
+gutenberg_issued: '2012-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40469'
+  lccn: '91172620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Scotland'
+- !lcc 'HE'
+title: An Historical Summary of the Post Office in Scotland
+url: http://www.gutenberg.org/ebooks/40469
